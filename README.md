@@ -22,7 +22,6 @@ Hi there, I'm **Alexandre Carvalho** and Developper. I love programming and I lo
 ### Contact me:
 
 - HomePage: [![website](https://img.shields.io/badge/alexandrehenrique.com.br-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://alexandrehenrique.com.br)
-- Twitter: [![Twitter](https://img.shields.io/badge/@ayusuke75-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ayusuke75)
 - YouTube: [![YouTube](https://img.shields.io/badge/@AlexandreH-E6162D?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCIH-1TmWqvjF0jkcl0oIflw)
 - Instagram: [![Instagram](https://img.shields.io/badge/@ayusuke7-E6752D?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ayusuke7)
 - Email: [![Email](https://img.shields.io/badge/alexhcb.7392@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexhcb.7392@gmail.com)
