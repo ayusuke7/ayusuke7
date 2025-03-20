@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Alexandre Carvalho
 
-Hi there, I'm **Alexandre Carvalho** and Developper. I love programming and I love Flutter.
+Hi there, I'm **Alexandre Carvalho** and Fullstack Developper.
 
 ### Talking about Personal Stuffs:
 
