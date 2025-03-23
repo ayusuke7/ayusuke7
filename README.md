@@ -4,20 +4,18 @@ Hi there, I'm **Alexandre Carvalho** and Fullstack Developper.
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a Software Engennier in CI&T; 
 - 🤔 My big interests are, Vision Computation with Python, Web in Node and Mobile with Flutter;
 - 💼 I’m working a Java Developper by side Backend an Angular in Frontend;
 - 💬 Ask me about anything, I am happy to help;
 
 ### Languages and Skills:
 
+![Flutter](https://img.shields.io/badge/Flutter-0078D7?style=flat-square&logo=Flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-1575F9?style=flat-square&logo=Typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-0078D7?style=flat-square&logo=Flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-999999?style=flat-square&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![React](https://img.shields.io/badge/React-007ACC?style=flat-square&logo=React&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-FA7343?style=flat-square&logo=OpenCV&logoColor=white)
 
 ### Contact me:
 
